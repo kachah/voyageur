@@ -1,0 +1,197 @@
+
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+footer{
+
+    margin-left: 45px;
+    margin-right: 5px;
+
+}
+
+nav {
+   
+    color: #ffffff;
+    padding: 10px;
+
+    border-bottom: dotted 1px #e20f0f;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  nav a:first-child {
+    color: #ff0000;
+    text-decoration: underline;
+  }
+  
+  nav a {
+    color: #0000ff;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+  
+  
+
+  body {
+    background-color: #f1ebee;
+    
+  }
+
+  .logo {
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+    display: inline-block;
+    position: absolute;
+   
+  }
+
+  #background-section {
+    width: 100%; 
+    height: 150px; 
+    background-image: url('../html/banniere.svg'); 
+    margin: 10px ;
+    margin-left: 50px;
+    margin-right: 50px;
+
+  }
+
+  #badge {
+    position: absolute; 
+    top: 21%; 
+    right: 20px; 
+    padding: 10px; 
+    background-color: rgba(255, 0, 0, 0.849); 
+    color: white;     
+    border-radius: 5px; 
+    
+  }
+
+  #text-container{
+    top: 10px; 
+    right: 10px; 
+    padding: 120px;
+    color: white; 
+    font-size: 16px; 
+    font-weight: bold;
+   
+  }
+
+  section{
+    background-color: rgba(196, 190, 190, 0.075); 
+
+  }
+
+  #gauchedroite {
+    display: flex; 
+  }
+
+
+  #guache-section {
+    width: 60%; 
+    justify-content: space-between;
+    margin-left: 50px;
+    
+  }
+  #droite-section {
+    width: 50%; 
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+
+  #cadre-section {
+    background-color: #615f5f; 
+    padding: 20px; 
+   
+    max-width: 60%; 
+  }
+
+  #sectiondroiteimg{
+    width: 100px;
+    height: 100px;
+    
+    margin-left: 100px;
+
+  }
+
+  .border{
+
+    border-bottom: dotted 1px #e20f0f;
+  }
+  
+
+
+
+  footer
+  {
+           padding-top: 25px;
+  }
+  
+    
+  #ctw, 
+  #cphoto, 
+  #cami
+  {
+      display: inline-block;
+      vertical-align: top;
+  }
+  
+  #ctw
+  {
+      width: 28%;
+  }
+  
+  #cphoto
+  {
+      width: 35%;
+  }
+  
+  #cami
+  {
+      width: 31%;
+  }
+  
+  #cphoto img
+  {
+      border: 1px solid #181818;
+      margin-right: 2px;
+      display: inline-block !important;
+      width: 50px;
+      height: 50px;
+  }
+  
+  #cami ul
+  {
+      display: inline-block;
+      vertical-align: top;
+      margin-top: 0;
+      width: 48%;
+      list-style-image: url('images/ico_liensexterne.png');
+      padding-left: 2px;
+  }
+  
+  #cami a
+  {
+      text-decoration: none;
+      color: #760001;
+  }
+
+ 
+
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
